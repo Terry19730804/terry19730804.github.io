@@ -1,0 +1,4 @@
+google.com, pub-4663322898515540, DIRECT, f08c47fec0942fa0
+appLovin.com, pub-4663322898515540, DIRECT, f2335cf7d0376e54
+unityads.unity3d.com, pub-4663322898515540, DIRECT, aa42f5d9f0c9e0b1
+inmobi.com, pub-4663322898515540, DIRECT, 9c3d2c4f23e8a1a3
